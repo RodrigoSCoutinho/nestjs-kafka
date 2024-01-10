@@ -40,6 +40,14 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Prisma
+
+```bash
+app/orders
+npx prisma migrate dev
+```
+
+
 ## Test
 
 ```bash
